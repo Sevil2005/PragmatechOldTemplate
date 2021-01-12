@@ -1,0 +1,37 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 22 Dec 2020 22:53:35 at https://www.pragmatech.az/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.pragmatech.az/ -O1 "C:\My Web Sites\New-Pragmatech" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:54:00	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.pragmatech.az/)
+22:54:40	Warning: 	Link https://www.pragmatech.az/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/css/img/vimeo-play.png (from https://www.pragmatech.az/static/assets/css/plugins/lightgallery.min.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/css/img/video-play.png (from https://www.pragmatech.az/static/assets/css/plugins/lightgallery.min.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/css/img/youtube-play.png (from https://www.pragmatech.az/static/assets/css/plugins/lightgallery.min.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/img/loading.gif (from https://www.pragmatech.az/static/assets/css/plugins/lightgallery.min.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/title-bar-01-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/patterns/mitech-call-to-action-image-global.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/patterns/mitech-home-appointment-call-to-action-bg-image.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/home-resolutions-hero-bg-image.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/patterns/mitech-home-infotechno-case-study-section-bg.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/home-appointment-contact-bg-image.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/mitech-home-services-contact-bg.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/mitech-processing-contact-bg.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/home-infotechno-contact-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/icons/metro-quote.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:01	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/patterns/mitech-home-infotechno-section-company-bg.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/home-infotechno-video-intro-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/hero/slider-processing-slide-01-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/hero/home-services-hero-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/hero/home-resolutions-hero-bg-image.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/contact-us-01-hero-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/bg/mitech-slider-cybersecurity-global-image.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/hero/mitech-landing-main-slider-bg.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/preview/mitech-landing-header-preview-bg.png (from https://www.pragmatech.az/static/assets/css/style.css)
+22:55:02	Error: 	"Not Found" (404) at link https://www.pragmatech.az/static/assets/images/preview/mitech-landing-footer-bg-01.jpg (from https://www.pragmatech.az/static/assets/css/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 27 seconds : 158 links scanned, 132 files written (14587552 bytes overall) [8259776 bytes received at 94939 bytes/sec], 11131846 bytes transferred using HTTP compression in 116 files, ratio 41%, 19.7 requests per connection
+(25 errors, 1 warnings, 0 messages)

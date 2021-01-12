@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.pragmatech.az	TRUE	/	FALSE	1999999999	__cfduid	d988a3735cc35cb21d747b7b5556ea3261608663216
+www.pragmatech.az	TRUE	/	FALSE	1999999999	csrftoken	e3kKAeSk5Eg7XFEgdQwyjQqw4iD7R97ke8virtdYUJt5NU9gCmtX3HpTdwsbVDIJ
+www.pragmatech.az	TRUE	/	FALSE	1999999999	SameSite	Lax
+.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d85a4429f2073b4242314ff064217b1bf1608663239
+ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
